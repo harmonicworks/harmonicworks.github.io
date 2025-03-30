@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://bpe.show4me.com/media/upload/files/9c/03/9c03b546-1866-4512-a514-8fd6f3ae9f86_256.webp"
   name             : "Maurice"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
