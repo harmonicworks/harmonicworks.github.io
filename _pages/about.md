@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Music Mindset"
+title: "Welcome to Harmonic Works"
 author_profile: true
 ---
 
