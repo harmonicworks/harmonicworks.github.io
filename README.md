@@ -9,7 +9,6 @@ and where code meets composition.
 
 ### 🌱 Current Focus
 
-- Studying Data Science at [University of the People](https://www.uopeople.edu)
 - Exploring the role of AI and ethics in creative expression
 - Writing about the evolution of computers and music
 - Slowly building a digital garden of sound, code, and thoughts
