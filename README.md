@@ -34,3 +34,6 @@ and where code meets composition.
 > “Every interaction, no matter the medium, is a chance to connect with humanity.”  
 > — A quiet principle behind all I build and create
 
+
+Note: This is a personal portfolio site. Suggestions are appreciated, but this project is not open for contributions.
+
