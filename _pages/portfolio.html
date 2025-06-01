@@ -18,3 +18,37 @@ Here you’ll find creative projects that blend music, code, and thoughtful desi
   </a>
   <!-- Add more badges here -->
 </div>
+
+<!-- inline style sheet -->
+<style>
+.badge-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+.badge-item {
+  text-align: center;
+  background: #fff;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+.badge-item:hover {
+  transform: scale(1.03);
+}
+.badge-item img {
+  max-width: 100px;
+  height: auto;
+}
+.badge-title {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+.badge-link {
+  text-decoration: none;
+  color: inherit;
+}
+</style>
