@@ -27,7 +27,7 @@ and where code meets composition.
 
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=C0xB-GMAAAAJ)  
 - 🎼 [Sound Experiments & Articles – Coming Soon]  
-- 🧬 ORCID: To be linked after setup
+- 🧬 [ORCID] (https://orcid.org/0009-0007-8216-6408)
 
 ---
 
