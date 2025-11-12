@@ -1,6 +1,6 @@
-# 🎧 Music Mindset
+# 🎧 HarmonicWorks
 
-Hi, I’m Maurice — a musician, writer, and soon-to-be data science student.  
+Hi, I’m Maurice — a musician, writer, and creative nerd.  
 I explore the intersection of music, technology, and human creativity.  
 This space is where I blend structured logic with expressive sound,  
 and where code meets composition.
@@ -15,11 +15,11 @@ and where code meets composition.
 
 ---
 
-### 🛠️ Projects Coming Soon
+### 🛠️ Current Projects
 
 - `computers-and-music-history`: A reworked version of my thesis  
-- `data-sonification`: Experiments turning data into sound  
-- `ambient-reading-music`: Instrumental loops designed for immersive reading  
+- `Between the Brackets`: The current state of AI, and the ethics involved
+- `Raised by Empathy`: Why and how empathy could be a valuable addition to your life, and when it starts to hurt.
 
 ---
 
