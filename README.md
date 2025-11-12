@@ -19,7 +19,7 @@ and where code meets composition.
 
 - `computers-and-music-history`: A reworked version of my thesis  
 - `Between the Brackets`: The current state of AI, and the ethics involved
-- `Raised by Empathy`: Why and how empathy could be a valuable addition to your life, and when it starts to hurt.
+- [Raised by Empathy](https://editor.reedsy.com/s/81eLW1T) Why and how empathy could be a valuable addition to your life, and when it starts to hurt.
 
 ---
 
