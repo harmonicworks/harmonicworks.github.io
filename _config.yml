@@ -13,7 +13,7 @@ title                    : "Harmonic Works"
 title_separator          : "-"
 name                     : &name "Maurice"
 description              : &description "Thoughts, projects, and reflections on music, ethics, and the human experience."
-url                      : https://harmonicworks.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://harmonicworks.org # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harmonicworks.github.io"
 
