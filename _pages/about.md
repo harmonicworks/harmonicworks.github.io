@@ -10,7 +10,8 @@ I think deeply, but I'm not an academic. I build things, but I'm not a tech expe
 
 ---
 
->What you'll find here<
+What you'll find here:
+
 This site is a living notebook. A place where I share what I'm working on, thinking about, and occasionally getting wrong.
 That includes:
 
@@ -20,7 +21,8 @@ Ideas — on AI ethics, human-AI collaboration, bias, and what it means to be cr
 Learning — currently studying academic writing and Korean, both humbling in their own way
 
 
->Why "Harmonic Works"?<
+Why "Harmonic Works"?
+
 Because harmony isn't the absence of tension. It's what happens when different elements find a way to coexist. That feels like a decent description of most things worth doing.
 
 Glad you stopped by. Have a look around.
