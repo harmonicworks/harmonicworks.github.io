@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Harmonic Works"
 title_separator          : "-"
-name                     : &name "Maurice"
+name                     : &name "Maurice Hissink"
 description              : &description "A living notebook on music, ethics, creativity and the human experience."
 url                      : https://harmonicworks.org
 baseurl                  : ""
@@ -23,9 +23,9 @@ repository               : "harmonicworks.github.io"
 author:
   # Biographic information
   avatar           : "https://bpe.show4me.com/media/upload/files/9c/03/9c03b546-1866-4512-a514-8fd6f3ae9f86_256.webp"
-  name             : "Maurice"
+  name             : "Maurice Hissink"
   pronouns         :
-  bio              : "Blending music, code, and ethics. One thoughtful experiment at a time."
+  bio              : "Writing about music, ethics, AI, and the human experience. One honest question at a time."
   location         : "Earth"
   employer         :
   uri              :
@@ -72,7 +72,7 @@ author:
   weibo            :
   wikipedia        :
   xing             :
-  youtube          :
+  youtube          : "CoboldChrysalis"
   zhihu            :
 
 # Publication Category - The following the list of publication categories and their headings
