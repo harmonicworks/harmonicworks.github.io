@@ -4,31 +4,30 @@ title: "Welcome to Harmonic Works"
 author_profile: true
 ---
 
-This is where music, words, and ideas collide. Sometimes gracefully, sometimes not.
+This is where music, words, and ideas find their way onto a page. Sometimes neatly, sometimes not.
 
-I'm Maurice, a musician, writer, and curious thinker who spends a lot of time at the edges of things. The edge between sound and silence, between creativity and technology, between what AI can do and what it should do.
+I'm Maurice Hissink — a musician and writer with a persistent interest in the edges of things. The edge between sound and silence, between technology and what it means to be human, between the questions worth asking and the ones that can't quite be answered yet.
 
-I think deeply, but I'm not an academic. I build things, but I'm not a tech expert. Questions about ethics, meaning, and human connection are never far from my mind, but I won't pretend to have all the answers.
+I think carefully, but I'm not an academic. I write about things I find genuinely interesting — music, AI, ethics, meaning, creativity — without pretending to have it all worked out. Curiosity is the starting point. Honesty is the method.
 
 <hr>
 
 ## What you'll find here
 
-This site is a living notebook. A place where I share what I'm working on, thinking about, and occasionally getting wrong.
+A quiet record of things I'm working on, thinking through, and occasionally getting wrong.
 
-- **Music** — compositions, production experiments, and the occasional detour into music theory
-- **Writing** — essays, reflections, and a few book projects in progress
-- **Ideas** — on AI ethics, human-AI collaboration, bias, and what it means to be creative in a world increasingly shaped by machines
-- **Learning** — currently studying academic writing and Korean, both humbling in their own way
+- **Music** — compositions and experiments under the name Cobold Chrysalis
+- **Writing** — essays and papers on AI, ethics, music, and the human condition
+- **Learning** — currently studying academic writing and AI ethics, both humbling in their own way
 
 <hr>
 
 ## Why "Harmonic Works"?
 
-Because harmony isn't the absence of tension. It's what happens when different elements find a way to coexist. That feels like a decent description of most things worth doing.
+Because harmony isn't the absence of tension. It's what happens when different things find a way to coexist. That feels like a reasonable description of most things worth doing.
 
 <hr>
 
 > "Every interaction, no matter the medium, is a chance to connect with humanity."
 
-*Glad you stopped by. Have a look around.*
+*Glad you stopped by.*
