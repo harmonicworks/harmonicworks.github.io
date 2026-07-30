@@ -22,7 +22,7 @@ repository               : "harmonicworks.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://bpe.show4me.com/media/upload/files/9c/03/9c03b546-1866-4512-a514-8fd6f3ae9f86_256.webp"
+  avatar           : "maurice-hissink.jpg"
   name             : "Maurice Hissink"
   pronouns         :
   bio              : "Writing about music, ethics, AI, and the human experience. One honest question at a time."
@@ -135,7 +135,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :
+og_image                 : "maurice-hissink.jpg"
 social:
   type                   :
   name                   :
