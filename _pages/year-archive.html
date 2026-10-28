@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "Blog"
-permalink: /posts/
+permalink: /blog/
 author_profile: true
 redirect_from:
+  - /posts/
   - /wordpress/blog-posts/
 ---
 {% include base_path %}
@@ -17,5 +18,7 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
+{% if site.posts.size == 0 %}
 <p><strong>📚 Coming soon!</strong><br>
 This blog will feature reflections, thoughts, and observations on creativity, ethics, AI, and the journey through music and data.</p>
+{% endif %}
