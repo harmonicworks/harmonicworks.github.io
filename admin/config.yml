@@ -1,0 +1,65 @@
+# Harmonic Works blog editor (Sveltia CMS) — https://harmonicworks.org/admin/
+# Our own settings. Sveltia itself auto-updates; this file is never touched by updates.
+
+backend:
+  name: github
+  repo: harmonicworks/harmonicworks.github.io
+  branch: master
+  base_url: https://sveltia-cms-auth.harmonicworks-studio.workers.dev   # Cloudflare login helper
+
+publish_mode: editorial_workflow   # Draft -> In review (Ember's final check) -> Ready -> Publish
+
+site_url: https://harmonicworks.org
+display_url: https://harmonicworks.org
+logo_url: https://harmonicworks.org/images/favicon-192x192.png
+
+media_folder: images/blog
+public_folder: /images/blog
+
+# Shrink uploaded photos automatically: max 1600 px, converted to WebP, tidy file names
+media_libraries:
+  default:
+    config:
+      slugify_filename: true
+      transformations:
+        raster_image:
+          format: webp
+          quality: 85
+          width: 1600
+          height: 1600
+
+slug:
+  encoding: ascii
+  clean_accents: true
+  timezone: local
+
+collections:
+  - name: posts
+    label: "Blog posts"
+    label_singular: "Blog post"
+    folder: _posts
+    create: true
+    # File name only (Jekyll needs the date in it). Not editable: the web address is set with the "Web address" field.
+    slug:
+      template: "{{year}}-{{month}}-{{day}}-{{slug}}"
+      editable: false
+    sortable_fields: ["date", "title"]
+    summary: "{{title}} — {{date | date('YYYY-MM-DD')}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description (for search results and sharing)", name: "description", widget: "text", required: false, hint: "One or two sentences. Shown in Google and when the post is shared." }
+      - { label: "Publish date", name: "date", widget: "datetime", hint: "Set a future date to schedule the post. It appears on the site on that day (rebuild around 06:15)." }
+      - { label: "Preview image (for sharing)", name: "image", widget: "image", required: false }
+      - { label: "Tags", name: "tags", widget: "list", required: false }
+      - label: "Web address (optional)"
+        name: "slug"
+        widget: "string"
+        required: false
+        pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', "Use lowercase letters, numbers and hyphens only, e.g. why-this-blog"]
+        hint: "Becomes harmonicworks.org/blog/<this>/. Leave empty to use the title. Short, 3-5 words. Changing it after publishing? Put the old one under Old addresses."
+      - label: "Old addresses (optional)"
+        name: "redirect_from"
+        widget: "list"
+        required: false
+        hint: "Only needed if you changed the web address after publishing. Add the old one like /blog/old-name/ and visitors get sent to the new address."
+      - { label: "Post", name: "body", widget: "markdown" }

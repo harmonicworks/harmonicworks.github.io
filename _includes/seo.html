@@ -87,7 +87,8 @@
 {% comment %} Preview image: page `image:` > header image > overlay image > site-wide fallback (og_image in _config.yml) {% endcomment %}
 {% assign seo_image = page.image | default: page.header.image | default: page.header.overlay_image | default: site.og_image %}
 {% if seo_image %}
-  <meta property="og:image" content="{% if seo_image contains "://" %}{{ seo_image }}{% else %}{{ seo_image | prepend: "/images/" | prepend: site.url }}{% endif %}">
+  {% assign seo_image_first = seo_image | slice: 0 %}
+  <meta property="og:image" content="{% if seo_image contains "://" %}{{ seo_image }}{% elsif seo_image_first == "/" %}{{ seo_image | prepend: site.url }}{% else %}{{ seo_image | prepend: "/images/" | prepend: site.url }}{% endif %}">
 {% endif %}
 
 {% if page.date %}

@@ -89,7 +89,7 @@ publication_category:
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
-future                   : true
+future                   : false   # scheduled posts wait until their date (daily rebuild)
 read_more                : "disabled"
 talkmap_link             : false
 comments:
@@ -266,6 +266,11 @@ defaults:
       author_profile: true
       share: false
       comment: false
+  # Blog editor (admin) — keep out of the sitemap
+  - scope:
+      path: "admin"
+    values:
+      sitemap: false
   # _talks
   - scope:
       path: ""

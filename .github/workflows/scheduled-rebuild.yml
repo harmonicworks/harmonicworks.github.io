@@ -1,0 +1,19 @@
+# Rebuild the site once a day so scheduled (future-dated) blog posts appear on their date.
+name: Daily rebuild for scheduled posts
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # every day around 06:17 (winter) / 07:17 (summer) Dutch time
+  workflow_dispatch:        # "Run workflow" button for a manual rebuild
+
+permissions:
+  pages: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ask GitHub Pages to rebuild
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"
+        env:
+          GH_TOKEN: ${{ github.token }}
