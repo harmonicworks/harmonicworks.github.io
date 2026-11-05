@@ -8,7 +8,7 @@ tags:
   - vintage gear
   - tinkering
   - MIDI tools
-slug: ''
+slug: about-this-blog
 redirect_from: []
 ---
 
@@ -40,7 +40,7 @@ Check my projects to get an idea of what I am getting at, ha!
 
 ## From gear to tools
 
-Some old tools are still quite usable as is. They work out of the box, and present you with their capabilities instantly. But, some tools used to have software to make things easier, or tweak stuff that is difficult to tweak from the outside. The Yamaha SU10 (post coming soon) and the Roland VS880 (post coming soon) can do all of the work without software, but with the right software, it becomes even more interesting. The SU10 could be edited, backed up, and tweaked, and the Roland can even be controlled by an external midi controller!
+Some old tools are still quite usable as is. They work out of the box, and present you with their capabilities instantly. But, some tools used to have software to make things easier, or tweak stuff that is difficult to tweak from the outside. The [Yamaha SU10 ](/blog/su10-backup-and-facts)and the [Roland VS880](/blog/vs880-control-room) can do all of the work without software, but with the right software, it becomes even more interesting. The SU10 could be edited, backed up, and tweaked, and the Roland can even be controlled by an external midi controller!
 
 Want more reverb during recording a live show? Twiddle a slider on a controller to make it so.
 
