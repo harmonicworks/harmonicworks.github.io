@@ -8,7 +8,7 @@ tags:
   - vintage gear
   - tinkering
   - MIDI tools
-slug: about-this-blog
+slug: welcome-to-harmonic-works
 redirect_from: []
 ---
 
