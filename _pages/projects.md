@@ -23,3 +23,5 @@ Free browser tools for vintage music gear. The MIDI tools work in Chrome or Edge
 - **Zombie92:** TI-92 Plus revival *(coming later)*
 - **Yamaha MDF2:** a possible repair *(in progress)*
 - **Floppy-disk effect machine** *(coming later)*
+- **Voyage92 Tracker:** a 1-bit music tracker for the TI-92 Plus and Voyage 200 *(in progress)*
+- **EmberWriter:** a tiny DOS writing program for the Siemens PG 710 *(in progress)*

@@ -1,14 +1,14 @@
 ---
 permalink: /music/
-title: "Music — Cobold Chrysalis"
+title: "Music"
 author_profile: true
 redirect_from:
   - /now/
 ---
 
-Music under the name **Cobold Chrysalis** — a few directions at once, some melodic, some more experimental.
+Music, under the names of **Cobold Chrysalis** and **Baraeda (바래다)** - a few directions at once, some melodic, some more experimental.
 
-Feel free to enjoy some of my past work here. Fair warning on vintage: *Quichot* is from around 2016, and the rest goes back over twenty years — recordings from a much earlier chapter, kept around because they're still part of the story.
+Feel free to enjoy some of my past work here. Fair warning on vintage: *Quichot* is from around 2016, and the rest goes back over twenty years - recordings from a much earlier chapter, kept around because they're still part of the story.
 
 <hr>
 
