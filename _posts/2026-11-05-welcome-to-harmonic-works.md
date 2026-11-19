@@ -27,7 +27,7 @@ Second-hand gear has a charm to me. It not only uses technology that can be cool
 ### Reason for sharing all this.
 
 Old gear can turn up in various places. From second hand stores to second hand sales sites, to attic cleanup runs. Whichever the case, if the gear is usable or can be made usable, it might be a candidate for tinkering. And, after some scouting on how to get it up and running again, I found that it could be valuable for others to share those journeys in repair, even if they failed. Who knows who can continue on failed projects, or finds value in completed projects.
-Wanna learn more on limits and how software or tweaks can work with it? Read more on this in this in [my projects](/projects/).
+Wanna learn more on limits and how software or tweaks can work with it? Read more on this in [my projects](/projects/).
 Sorting all these quirks out is part of the process for me. And along the way, if I get it running or not, I might find new ceilings on a device, or figure out cool ways to work with it in other ways! Or, it simply looks cool on a shelf, as a relic of its time.
 In some cases, that journey needs to be shared. For both the fun, but also a guidance for others who want to try out the same device, but might be stuck here and there.
 Sharing is caring, right?
@@ -49,7 +49,7 @@ Want more reverb during recording a live show? Twiddle a slider on a controller 
 Now, what the blog is and what it isn't.
 As the stories on this blog are basically my journey in tinkering, they are by no means definitive guides, or maintenance/repair guides. All tinkering is done on my own gear: if something broke, it was on me. That being said, as I don't want to break my gear obviously, I tried to include as much detail and information to make sure the process works in the best way, errors and odd bumps in the road included, but the choice of trying the same hacks or repairs on your own gear is fully yours (the readers).
 
-Everything on this site worked on _my_ devices, with my cables, firmware, settings and software. Your setup might be different, and so might your results. Nothing here is "this is how it should be done, period". It's "this is what worked for me, with these devices, these settings and these tools". Nothing is hidden: the tools are open source (License in each repo) and listed in each post. Back up first, take your time, and enjoy finding your own way with it.
+Everything on this site worked on _my_ devices, with my cables, firmware, settings and software. Your setup might be different, and so might your results. Nothing here is "this is how it should be done, period". It's "this is what worked for me, with these devices, these settings and these tools". Nothing is hidden: the tools are free and open source (license in each repo) and listed in each post. Back up first, take your time, and enjoy finding your own way with it.
 Software updates are not scheduled either. They happen during personal use, not on a frequent basis.
 
 Enjoy your stay on this blog, and I hope the tools and information shared is of some value to you!
